@@ -3,7 +3,7 @@ package Uygulamalar;
 import dto.ProductCommentCountDto;
 import entityservice.ProductCommentCountEntityService;
 import java.util.List;
-
+//Find product comment count 
 public class DtoAppProductCommentCount {
     public static void main(String[] args) {
         ProductCommentCountEntityService service = new ProductCommentCountEntityService();
